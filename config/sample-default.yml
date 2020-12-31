@@ -1,0 +1,15 @@
+address:
+  postcode: AA22BB
+  street: 11 Somewhere
+ical:
+  domain: example.com
+  name: Your Region Refuse and Recycling Collection
+  location: Your Region
+  source: 'https://www.tmbc.gov.uk/do-it-online/miscellaneous-forms/refuse-and-recycling-collection-dates'
+aws:
+  credentials:
+    accessKeyId: XXXXXXXXXXX
+    secretAccessKey: XXXXXXXXXXX
+  destination:
+    Bucket: bins.example.com
+    Key: 'bins.ical'
