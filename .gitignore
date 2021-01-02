@@ -2,3 +2,4 @@ node_modules
 /.vscode
 /credentials.json
 /config/default.yml
+/example.png
